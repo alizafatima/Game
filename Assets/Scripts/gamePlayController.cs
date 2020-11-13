@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//A comment is added in the gamePlayController
+
 public class gamePlayController : MonoBehaviour 
 {
     public GameObject gamePlayPanel;
